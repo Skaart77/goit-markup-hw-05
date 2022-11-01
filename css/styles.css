@@ -274,15 +274,16 @@ gap: 30px;}
 }
 
 .text-service{
-
 position: absolute;
+white-space: nowrap;
 font-weight: 700;
 font-size: 14px;
 line-height: 1.14;
 letter-spacing: 0.03em;
 text-transform: uppercase;
+text-align: center;
 bottom: 0;
-padding: 27px 107px;
+padding: 27px 113px;
 color: var(--primary-white-color);
 
 }

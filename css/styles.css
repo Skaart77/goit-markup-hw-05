@@ -62,8 +62,10 @@ img{ display: block;
  width: 100%;
  top: 0;
  left: 0;
+ min-height: 80px;
  border-bottom: 1px solid var(--border-color);
  background-color: var(--primary-white-color);
+ z-index: 1;
 }
 
 
